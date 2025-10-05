@@ -1,8 +1,8 @@
-<h1 align="center">👋 Olá, eu sou o Felipe de Assis Gomes</h1>
+<h1 align="center">👋 Olá, eu sou o Felipe </h1>
 
 <p align="center">
-  💻 Desenvolvedor em formação • 🎓 Estudante de ADS no <b>Senac São Paulo</b> • 🚀 Explorando o ecossistema Java
-</p>
+  💻 Desenvolvedor em formação • 🎓 Estudante de ADS desde 2025 no <b>Senac São Paulo</b> 
+</p> • 👨‍💻 Técnico em Informatica
 
 ---
 
