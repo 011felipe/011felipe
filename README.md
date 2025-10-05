@@ -20,8 +20,9 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen?logo=springboot)
 ![Hibernate](https://img.shields.io/badge/Hibernate-ORM-blue?logo=hibernate)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-blue?logo=postgresql)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.x-yellow?logo=python)
-![Maven](https://img.shields.io/badge/Maven-Build-orange?logo=apachemaven)
 ![Git](https://img.shields.io/badge/Git-VersionControl-black?logo=git)
 
 ---
@@ -34,8 +35,8 @@ Minha meta é evoluir de forma consistente — código por código, commit por c
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=01lfelipe&show_icons=true&theme=tokyonight" height="160em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01lfelipe&layout=compact&theme=tokyonight" height="160em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=011felipe&show_icons=true&theme=tokyonight" height="160em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=011felipe&layout=compact&theme=tokyonight" height="160em" />
 </p>
 
 ---
